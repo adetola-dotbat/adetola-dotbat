@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## Fields of Interest
-- Newest stuff of PHP and Laravel, and Javascript and React
+- Newest stuff of PHP and Laravel, and Javascript and Vue
 - Design systems and component libraries
 - Software Architecture
 - Integration and Unit testing
