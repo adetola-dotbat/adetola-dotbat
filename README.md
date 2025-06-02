@@ -1,10 +1,22 @@
 ## Hi there 👋
 
 ## Fields of Interest
-- Newest stuff of PHP and Laravel, and Javascript and Vue
-- Design systems and component libraries
-- Software Architecture
-- Integration and Unit testing
+# Modern Full-Stack Blueprint (Laravel + Vue)
+
+**Production-ready patterns with Laravel, Vue 3, and scalable architecture**  
+*(Composable. Tested. Declarative.)*
+
+---
+
+## 🧩 Stack Foundations
+### Backend
+- **Laravel 11** (Octane, API resources, Eloquent ORM)  
+- **PHP 8.3** (typed properties, fibers)  
+- **Sanctum/Passport** (auth)  
+
+### Frontend
+- **Vue 3** (Composition API, Pinia, `<script setup>`)  
+- **Vite** (lightning builds) 
 
 ## Philosophy
 - 🪶 **Simplicity**: Avoid unnecessary complexity.  
