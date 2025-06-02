@@ -7,9 +7,9 @@
 - Integration and Unit testing
 
 ## Philosophy
-1. KISS (keep it simple!)  
-2. DOT (do one thing well)  
-3. Declarative > Imperative code  
+- 🪶 **Simplicity**: Avoid unnecessary complexity.  
+- 🎯 **Single Responsibility**: Each component does one thing clearly.  
+- 📜 **Declarative First**: Prefer `what over how` in code design.  
 
 ## Me on GitHub
 <!--
