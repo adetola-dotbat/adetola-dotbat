@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# HI there 👋
-
 ## Fields of Interest
 - Newest stuff of PHP and Laravel, and Javascript and React
 - Design systems and component libraries
