@@ -21,7 +21,6 @@
 ## Philosophy
 - 🪶 **Simplicity**: Avoid unnecessary complexity.  
 - 🎯 **Single Responsibility**: Each component does one thing clearly.  
-- 📜 **Declarative First**: Prefer `what over how` in code design.  
 
 ## Me on GitHub
 <!--
